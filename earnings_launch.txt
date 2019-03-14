@@ -83,4 +83,13 @@ CurrentDate <= #2017-11-17#) OR
 CurrentDate <= #2018-03-02#) OR 
 
 (CurrentDate >= #2018-04-19# AND
-CurrentDate <= #2018-05-11#)
+CurrentDate <= #2018-05-11#)  OR
+
+(CurrentDate >= #2018-07-16# AND
+CurrentDate <= #2018-08-13#) OR
+
+(CurrentDate >= #2018-10-18# AND
+CurrentDate <= #2018-11-16#) OR
+
+(CurrentDate >= #2019-01-23# AND
+CurrentDate <= #2019-03-14#) 
